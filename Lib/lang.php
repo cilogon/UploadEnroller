@@ -18,4 +18,5 @@ $cm_upload_enroller_texts['en_US'] = array(
   'pl.uploadenroller.index.table.heading.name' => 'Enrollee Name',
   'pl.uploadenroller.index.table.heading.email' => 'Enrollee Email',
   'pl.uploadenroller.index.table.heading.document' => 'Uploaded Document',
+  'pl.uploadenroller.petition.view.document' => 'Uploaded Document',
 );
