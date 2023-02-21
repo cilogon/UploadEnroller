@@ -1,4 +1,4 @@
-<?
+<?php
 
 App::uses('CoPetitionsController', 'Controller');
 App::uses('PetitionDocument', 'UploadEnroller.Model');

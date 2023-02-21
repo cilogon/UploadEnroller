@@ -1,4 +1,4 @@
-<?
+<?php
 
 App::uses('StandardController', 'Controller');
 
